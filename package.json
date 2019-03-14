@@ -1,0 +1,15 @@
+{
+  "name": "cvmath",
+  "version": "0.0.1",
+  "description": "A Solution of Mathematical Formula for Front-end",
+  "main": "index.js",
+  "repository": "git@github.com:Lyd9607/cvmath.git",
+  "author": "luoede<luoyide9607@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "rollup -c -w"
+  },
+  "devDependencies": {
+    "rollup": "^1.0.0"
+  }
+}
